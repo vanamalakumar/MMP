@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is ECB5-3EF2
+
+ Directory of C:\Users\hp\Desktop\MMP
+
+09/26/2018  11:03 AM    <DIR>          .
+09/26/2018  11:03 AM    <DIR>          ..
+09/26/2018  11:03 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  19,975,479,296 bytes free
